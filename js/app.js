@@ -69,7 +69,7 @@ function reiniciar (){
     formulario.classList.remove("d-none");
     horas = 0
     minutos = 0
-    segundos = 0
+    segundos = 1
 
 }
 function pausar () {
